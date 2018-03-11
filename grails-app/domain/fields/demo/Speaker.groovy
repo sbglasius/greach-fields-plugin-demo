@@ -16,8 +16,12 @@ class Speaker {
     static hasMany = [talks: Talk]
 
     static constraints = {
-        image url: true
+        name nullable: false
+        bio nullable: false
+        twitter nullable: false
+        company nullable: false
         talks minSize: 0
+        image url: true
     }
 
     static mapping = {

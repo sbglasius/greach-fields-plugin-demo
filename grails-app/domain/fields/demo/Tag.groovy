@@ -7,4 +7,8 @@ class Tag {
     }
     static hasMany = [talks: Talk]
     static belongsTo = Talk
+    static constraints = {
+        tag nullable: false
+        talks nullable: true
+    }
 }

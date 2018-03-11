@@ -14,6 +14,12 @@ class Talk {
     static belongsTo = [speaker: Speaker]
     static hasMany = [tags: Tag]
 
+    static constraints = {
+        title nullable: false
+        summary nullable: false
+        speaker()
+        tags()
+    }
     static mapping = {
         summary type: 'text'
     }
