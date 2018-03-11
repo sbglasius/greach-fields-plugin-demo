@@ -1,0 +1,605 @@
+[
+  {
+    "id": 25,
+    "name": "Alexander (Sascha) Klein",
+    "company": "codecentric AG",
+    "twitter": "saschaklein",
+    "image": "http://cfp.gr8conf.org/profile/img/25",
+    "bio": "<p>Alexander (Sascha) Klein is branch manager at codecentric AG in Stuttgart, Germany. He works for more than 15 years in the java-ecosystem as developer, architect and trainer. His interests are UI-development and -ergonomy, DSL's and development efficency. He is an avowed opensource and Groovy follower, aswell and especially for enterprise projects, and Griffon commiter.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 647,
+        "title": "DSL 101",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Alvaro Sanchez-Mariscal",
+    "company": "OCI",
+    "twitter": "alvaro_sanchez",
+    "image": "http://cfp.gr8conf.org/profile/img/7",
+    "bio": "<p>Álvaro is a member of the Grails team at OCI and a Grails committer. He is a passionate software architect and agile enthusiast with over 18 years of experience. He started his career in 2001 coding in Perl and Java, but then quickly focused on Java EE, working for companies like IBM BCS, BEA Systems or Sun Microsystems. He created his own company, Salenda, in 2005, the very first Grails company in Spain. Since 2013 he has worked in different industries like gambling games and fintech. He now works for OCI, the company behind Grails.<\u002fp><p>Álvaro is a speaker at conferences like GeeCON, JavaLand, JavaZone, Codemotion, Greach and GR8Conf. He has also written several Grails plugins, including Spring Security REST, which provides stateless, RESTful, token based authentication for Grails using OAuth 2 and JWT.<\u002fp>",
+    "shortBio": "Software Engineer, Grails Development Team at OCI",
+    "featured": false,
+    "talks": [
+      {
+        "id": 645,
+        "title": "6 things you need to know about GORM 6",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 643,
+        "title": "Reactive microservices with Particle (code name)",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Andres Almiray",
+    "company": "Canoo Engineering AG",
+    "twitter": "aalmiray",
+    "image": "http://cfp.gr8conf.org/profile/img/47",
+    "bio": "<p>Andres is a Java/Groovy developer and Java Champion, with more than 14 years of experience in software design and development. He has been involved in web and desktop application developments since the early days of Java. His current interests include Groovy, Swing and JavaFX. He is a true believer of open source and has participated in popular projects like Groovy, Grails and DbUnit, as well as starting his own projects. Founding member and current project lead of the Griffon framework.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 605,
+        "title": "Hackergarten on Tour",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 606,
+        "title": "Spock's New Tricks",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Christian Streibl",
+    "company": "codecentric AG",
+    "twitter": "codestoe",
+    "image": "http://cfp.gr8conf.org/profile/img/199",
+    "bio": "<p>Sudied Medical Informatics in Heidelberg and Heilbronn (Germany) Software Developer at DKFZ Heidelberg – Image and Signal Processing Software Developer at Swarco Traffic Systems GmbH – Traffic Lights to the Cloud Software Developer at codecentric AG - Consulting<\u002fp>",
+    "shortBio": "Software Engineering, Software Consulting, Software Crafting, Feelgood Management",
+    "featured": false,
+    "talks": [
+      {
+        "id": 625,
+        "title": "Becoming a Groovy Team",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Claus Ibsen",
+    "company": "Red Hat",
+    "twitter": "davsclaus",
+    "image": "http://cfp.gr8conf.org/profile/img/69",
+    "bio": "<p>Claus Ibsen is #1 contributor on Apache Camel for the past 6 years and he shares a great deal of his expertise as a co-author of Manning’s Camel in Action book. <\u002fp><p>Claus is also involved in other open source projects, usually related to Apache Camel, such as fabric8 and hawtio.<\u002fp><p>Claus has great fondness for the Groovy programming language, which he used at customer engagements in his former position as integration consultant. In fact three of Clauses all time favorite software projects: Camel, Groovy, and hawtio are all created by the same person James Strachan. Whom happens to also work in the same team as Claus. A strange little world :)<\u002fp><p>He works for Red Hat on open source integration software and the JBoss Fuse product and has more than 15 years experience in enterprise software development.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 580,
+        "title": "Developing Apache Camel microservices on Kubernetes",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Dawid Kublik",
+    "company": "Viacom Inc",
+    "twitter": "dawidkublik",
+    "image": "http://cfp.gr8conf.org/profile/img/155",
+    "bio": "<p>Dawid's programming history reaches as far as the times of C64, but currently he deals with more modern stack involving mostly jvm technologies. Working as a developer in many different projects including areas like telecommunication, insurance, finance and media for more then a decade, and being witness to a few revolutions in technology, methodology and overall way of thinking - he still is somehow open to changes and tries to utilize what they bring.<\u002fp><p>Currently working as Lead Software Engineer in Viacom Inc.<\u002fp>",
+    "shortBio": "Lead Software Engineer in Viacom Inc.",
+    "featured": false,
+    "talks": [
+      {
+        "id": 618,
+        "title": "The Magic Behind the Spock",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Graeme Rocher",
+    "company": "OCI",
+    "twitter": "graemerocher",
+    "image": "http://cfp.gr8conf.org/profile/img/54",
+    "bio": "<p>Graeme Rocher is a software engineer who serves as Head of Grails Development at <a href=\"http://www.ociweb.com\">OCI - ociweb.com<\u002fa>. <\u002fp><p>Graeme is project lead of the Open Source <a href=\"http://grails.org\">Grails web application framework<\u002fa> and co-author of <a href=\"http://apress.com/book/view/1590599950\">“The Definitive Guide to Grails” - Apress<\u002fa>.<\u002fp>",
+    "shortBio": "Grails Project Lead",
+    "featured": true,
+    "talks": [
+      {
+        "id": 655,
+        "title": "Launching the Micro Future: Groovy, Grails and Project Particle",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Guillaume Laforge",
+    "company": "Google",
+    "twitter": "glaforge",
+    "image": "http://cfp.gr8conf.org/profile/img/34",
+    "bio": "<p>Guillaume Laforge is the Chair of the Apache Groovy project, and is working for Google where he is a developer advocate. In January 2018 he was named a Java Champion.<\u002fp><p>Together with Søren Berg Glasius he is the founder of GR8Conf.<\u002fp>",
+    "shortBio": "Guillaume is the Apache Groovy Chair, a Google developer advocate, a Java Champion and the co-founder of GR8Conf.",
+    "featured": true,
+    "talks": [
+      {
+        "id": 610,
+        "title": "Machine Learning APIs are getting Groovy!",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 602,
+        "title": "Getting started with G* tech on Google Cloud Platform",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Hubert Klein Ikkink",
+    "company": "JDriven",
+    "twitter": "mrhaki",
+    "image": "http://cfp.gr8conf.org/profile/img/51",
+    "bio": "<p>Hubert Klein Ikkink is also known as mrhaki. He uses this alias to write on his blog “Messages from mrhaki”. On this blog he writes short tips and tricks about Groovy features in the “Groovy Goodness” series. Hubert started to develop Java applications more than a decade ago. Six years ago he started to explore Groovy and Grails in personal projects, because of the dynamic nature of Groovy and the speed of development. Today he works with Groovy and Grails during his daytime job at JDriven in the Netherlands.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 620,
+        "title": "Building Asynchronous and Non-Blocking HTTP Applications with Ratpack",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 619,
+        "title": "Making Asciidoctor Groovy",
+        "level": "ADVANCED"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Jacob Aae Mikkelsen",
+    "company": "Cardlay A/S",
+    "twitter": "JacobAae",
+    "image": "http://cfp.gr8conf.org/profile/img/97",
+    "bio": "<p>Jacob is a senior solution architect working in a startup fintect company in Denmark: Cardlay. Working in the financial space, security is paramount, as is the requirements for compliance. As a hobby on the side, Jacob has for multiple years taught \"Networks and Security\" (and a few other courses) at the University of Southern Denmark.<\u002fp><p>He’s been on the crew arranging GR8conf Europe for several years, and as a hobby on the side, Jacob has for multiple years taught \"Networks and Security\" at the University of Southern Denmark, and also a course on “Web development with Groovy and Grails”.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 582,
+        "title": "Common Security Issues ... and how we can prevent them from appearing in my Grails/Ratpack application",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Jennifer Strater",
+    "company": "Zenjob",
+    "twitter": "codejennerator",
+    "image": "http://cfp.gr8conf.org/profile/img/88",
+    "bio": "<p>Jennifer “Jenn” Strater is a Senior Engineer at Zenjob Gmbh in Berlin, Germany where we revolutionize the way students work. She was formerly a co-founder of GR8Ladies and is now part of the board of GR8DI, the Apache Groovy Diversity Initiative. She has also organized GR8Workshops for developers interested in an overview and crash course in Groovy technologies and presented on several Groovy topics at events such as the Grace Hopper Celebration of Women in Computing, Greach, GR8Conf EU, GR8Conf US, Devoxx Belgium, JFokus, and Spring One Platform.<\u002fp>",
+    "shortBio": "Senior Engineer at Zenjob",
+    "featured": false,
+    "talks": [
+      {
+        "id": 614,
+        "title": "Why use #groovylang? How to convince your boss and others",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Jesper Steen Møller",
+    "company": "Nine A/S",
+    "twitter": "hr_Moller",
+    "image": "http://cfp.gr8conf.org/profile/img/228",
+    "bio": "<p>Jesper's either a software developer who's also a solution architect, or the other way around -- he has a keen interest in building systems that actually work, mostly in the merry maze called Danish public sector IT.<\u002fp><p>Specialties: Making systems which work and innovate, by coming up with solutions to \"unsolvable\" problems.<\u002fp><p>While he primarily works in Groovy, Jesper has a developer background in C++ and Java, and keeps getting involved in various Open Source efforts, mostly in Eclipse on the built-in Java compiler (e.g. for Java 8 and 10). He also contributes to the Groovy community, e.g. around the new grammar. Other guilty pleasures include working in Python (for Machine Learning) and TypeScript (for recreational game programming).<\u002fp>",
+    "shortBio": "Programming language hacker from dusk till dawn",
+    "featured": false,
+    "talks": [
+      {
+        "id": 622,
+        "title": "Moving forward to Groovy 3.0",
+        "level": "ADVANCED"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Kevin Simper",
+    "company": "Connected Cars A/S",
+    "twitter": "kevinsimper",
+    "image": "http://cfp.gr8conf.org/profile/img/239",
+    "bio": "<p>Full-Stack developer working at Connected Cars making car-owners feeling more secure. Co-Organizer of CopenhagenJS that is a monthly meetup group and Organizer of Docker Copenhagen. Avid snowboarder and bicyclist. Living in Copenhagen with my girlfriend.<\u002fp>",
+    "shortBio": "Full-Stack developer working at Connected Cars making car-owners feeling more secure. Organizer of CopenhagenJS.",
+    "featured": false,
+    "talks": [
+      {
+        "id": 659,
+        "title": "Docker Best Practices in development and Production",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 658,
+        "title": "Making Docker and Kubernetes a success at your Company",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Kevin Wittek",
+    "company": "G DATA | Advanced Analytics GmbH",
+    "twitter": "Kiview",
+    "image": "http://cfp.gr8conf.org/profile/img/187",
+    "bio": "<p>Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. Nowadays Kevin is working at the cyber security company GDATA and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.<\u002fp>",
+    "shortBio": "Software developer focusing on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world better on container at a time.",
+    "featured": false,
+    "talks": [
+      {
+        "id": 577,
+        "title": "Leaving Javaland - bring your boots! Spring-Boot for Groovy developers",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 578,
+        "title": "DevOps Glue - Task Automation with Gitlab-CI and Groovy",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 579,
+        "title": "Groovy integration testing with Docker and TestContainers",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Lee Fox",
+    "company": "Infor",
+    "twitter": "FoxInATX",
+    "image": "http://cfp.gr8conf.org/profile/img/162",
+    "bio": "<p>Lee is currently the Cloud Architect at Infor, and is a technologist with a strong background in software development writing code in Java, Python, and Groovy.<\u002fp><p>He has served in the architecture roles for companies like AT&amp;T Wi-Fi Services, Borland, and Pervasive. His software development history has always had a strong eye on maintaining quality and improving process. He is an Agile pragmatist as he strives to help organizations become more effective in their technical and software development implementations while maintaining a high degree of quality. Lee has been a member of Agile Austin for many years and pursues Agility and DevOps as a couple of his driving passions in the workplace.<\u002fp><p>Lee received his Bachelor of Science in Computer Science from Southwest Texas State University. <\u002fp><p>He is a Certified ScrumMaster and Trained Innovation Games Facilitator. When he’s not doing something technical, you may find him in the kitchen pursuing dreams of being an amateur chef, or spending time with his family trolling about Austin.<\u002fp>",
+    "shortBio": "Technologist, Agilist, Innovator",
+    "featured": false,
+    "talks": [
+      {
+        "id": 565,
+        "title": "DevOps Archeology",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 570,
+        "title": "Effective DevOps:  Build a High Performance Team",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 603,
+        "title": "Coding Tests:  Why You Don't Need Them During Interviews",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 584,
+        "title": "GalecinoCar - a self driving car using machine learning, webservices, Java, and Groovy!",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "MaPhi Werner",
+    "company": "codecentric AG",
+    "twitter": "maphiwe",
+    "image": "http://cfp.gr8conf.org/profile/img/231",
+    "bio": "<p>MaPhi Werner is a consultant at codecentric AG in Stuttgart, Germany. He worked most of his professional life as Software Architect in large-scale projects. When joining codecentric last year, he revitalised his love for code. He's still amazed how much easier Groovy is than C++. Besides coding, technical interests are around Ansible, CI/CD, and containerisation. <\u002fp><p>PS: MaPhi is short for Marc Philipp, which is too long for practical use.<\u002fp>",
+    "shortBio": "Software Consultant and Architect @ codecentric AG",
+    "featured": false,
+    "talks": [
+      {
+        "id": 631,
+        "title": "Spock 101",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Marcin Erdmann",
+    "company": "Energized Work",
+    "twitter": "marcinerdmann",
+    "image": "http://cfp.gr8conf.org/profile/img/77",
+    "bio": "<p>Marcin has been developing in Groovy since 2010. Currently based in London but has worked in other European countries in the past. He believes in Open Source Software and has a strong need to give back to the community whenever possible. Marcin loves Open Source Software and has a strong need to give back to the community whenever possible. That’s why he’s proud to be the current project lead of Geb, a Groovy Browser automation library. In the past he contributed to many open source projects in the Groovy ecosystem and he enjoys going to conferences both as an attendee and a speaker. That’s where you will find him with a pint of good beer in hand engaged in lengthy discussions on how to make software development process and quality better.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 654,
+        "title": "GEB best pratices",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 607,
+        "title": "Groovy Test Fixtures",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Marco Pas",
+    "company": "Philips Research",
+    "twitter": "marcopas",
+    "image": "http://cfp.gr8conf.org/profile/img/198",
+    "bio": "<p>Marco is a hands on Software Engineer/Geek. Interested in all kinds of software related technologies (languages, architectures and methodologies). Strong believer in the fact that one should keep knowledge up-to-date, and seek inspiration in new things. <\u002fp><p>Supporting the developer community by organising the yearly NextBuild Conference for Developers and by Developers.<\u002fp><p>Tech guy, wannabe cooking chef, traveller, likes to watch movies/series, beer enthusiast, tries to enjoy life.<\u002fp>",
+    "shortBio": "Marco is a hands on Software Engineer/Geek",
+    "featured": false,
+    "talks": [
+      {
+        "id": 486,
+        "title": "Rediculous easy centralized application logging & monitoring",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 611,
+        "title": "The Internet Of Things and capturing Time Series Data",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Mario Garcia",
+    "company": "Kaleidos.net",
+    "twitter": "marioggar",
+    "image": "http://cfp.gr8conf.org/profile/img/227",
+    "bio": "<p>Senior Software Developer at Kaleidos.net. Passionate about programming languages (Groovy among all) and open source in general. I'm also an active member of the Madrid Groovy User Group.<\u002fp>",
+    "shortBio": "Developer passionate about programming languages (Groovy among all) and open source in general.",
+    "featured": false,
+    "talks": [
+      {
+        "id": 613,
+        "title": "GraphQL applications with Ratpack",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Matthias Rottländer",
+    "company": "G DATA Advanced Analytics",
+    "twitter": "faradaxian",
+    "image": "http://cfp.gr8conf.org/profile/img/238",
+    "bio": "<p>Driven by the strong belief that only a solid, automated testing suite can support a fast-paced development environment, I arrived in the world of Groovy via Spock. By now, Groovy is my go-to language to solve all kinds of technical problems. Aside from programming, I have a strong interest in all things agile. It doesn't stop there, though: I try to catch up on a broad spectrum of topics like architecture, TDD or usability at any opportunity. I'm happy to share experiences with you at GR8Conf - in my workshop, in the hallway track and at evening activities!<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 579,
+        "title": "Groovy integration testing with Docker and TestContainers",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Michael Ploed",
+    "company": "innoQ",
+    "twitter": "bitboss",
+    "image": "http://cfp.gr8conf.org/profile/img/119",
+    "bio": "<p>Michael works a a Principal Consultant for innoQ in Germany. He has over 10 years of practical consulting experience in software development and -architecture. His main areas of interest are currently Event Sourcing, Microservices, Grails 3 and Polyglot Persistence.<\u002fp>",
+    "shortBio": "Michael works as a developing software architect in Germany",
+    "featured": false,
+    "talks": [
+      {
+        "id": 593,
+        "title": "Microservices love Domain-Driven Design, why and how?",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Paul King",
+    "company": "OCI",
+    "twitter": "paulk_asert",
+    "image": "http://cfp.gr8conf.org/profile/img/127",
+    "bio": "<p>Paul King has been contributing to open source projects for nearly 30 years and is an active committer on numerous projects including Groovy, GPars and Gradle. Paul speaks at international conferences, publishes in software magazines and journals, and is a co-author of Manning’s best-seller: Groovy in Action, 2nd Edition.<\u002fp>",
+    "shortBio": "Father husband Australian software-developer craftsman computer-scientist author speaker trainer mentor manager innovator committer swimmer cyclist gardener",
+    "featured": true,
+    "talks": [
+      {
+        "id": 586,
+        "title": "Groovy compile-time metaprogramming workshop",
+        "level": "ADVANCED"
+      },
+      {
+        "id": 547,
+        "title": "Groovy update: What's new in Groovy 2.5+",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 587,
+        "title": "Functional Groovy",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Ryan Vanderwerf",
+    "company": "OCI / Grails",
+    "twitter": "RyanVanderwerf",
+    "image": "http://cfp.gr8conf.org/profile/img/29",
+    "bio": "<p>Developer at OCI / Grails Team<\u002fp><p>Follow Ryan Vanderwerf on Twitter<\u002fp><p>Ryan is a developer at OCI on the Grails team. Formerly Chief Systems and Software Architect and Director of Products at ReachForce and Lead Architect at Developerprogram.com. He has helped maintain various Grails plugins, and co-chair of the Austin Groovy and Grails User Group in Austin, TX. Co author of \"Effective Gradle Implementation\" Aug 2014. <\u002fp><p>In the past Ryan has help design and build a Grails and Groovy and AWS Cloud SaaS solution for ReachForce for Marketing Data Management. He also built as SaaS solution for Developerprogram.com that allows rapid deployment of Developer Program portals for all kinds of companies, specializing in the mobile industry. He has also built Java and Linux based webcasting for events such as SXSW, built telecom software, and SaaS systems for the financial sector.<\u002fp>",
+    "shortBio": "Developer at OCI / Grails Team, co-chair of Austin Groovy and Grails User Group",
+    "featured": false,
+    "talks": [
+      {
+        "id": 34,
+        "title": "Deploying, Scaling, and Running Grails on AWS and VPC",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 584,
+        "title": "GalecinoCar - a self driving car using machine learning, webservices, Java, and Groovy!",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Schalk Cronjé",
+    "company": "Ntaba UK Ltd",
+    "twitter": "ysb33r",
+    "image": "http://cfp.gr8conf.org/profile/img/81",
+    "bio": "<p>Schalk Cronjé’s experience in the software industry spans three decades and has performed most roles in software delivery. He believes that both software engineering and craftsmanship is important for the industry and that both disciplines should be taught to achieve holism in technology delivery. He also understands that there is a strong relationship between the modern software techniques that are used and the signature skills of people and these should be aligned for effective delivery. He is also a strong advocate of using systems thinking, holistic stakeholder analysis and impact mapping. <\u002fp><p>He keeps his technical skills fit by frequent contributions to various open-source projects. He is the creator of Groovy-VFS as well a maintainer of various Gradle plugins including for JRuby, GMake, Doxygen and more.<\u002fp><p>He is a regular speaker on various software delivery techniques in the UK, USA, India and South Africa. He currently serves as a steering committee member of the Agile Testing Alliance.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 335,
+        "title": "Wiring NIO2 File Providers in Groovy",
+        "level": "ADVANCED"
+      },
+      {
+        "id": 322,
+        "title": "Gradle Plugin Writing Workshop",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Stanislav Tiurikov",
+    "company": "Payworks GmbH",
+    "twitter": "tyurikov",
+    "image": "http://cfp.gr8conf.org/profile/img/217",
+    "bio": "<p>I'm a software engineer at Payworks GmbH and a founder of Infrastructor framework (infrastructor.io)<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 562,
+        "title": "Bring your infrastructure under control with Infrastructor",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Søren Glasius (GR8Conf)",
+    "company": "GR8Conf",
+    "twitter": "sbglasius",
+    "image": "http://cfp.gr8conf.org/profile/img/1",
+    "bio": "<p>I am the co-founder of GR8Conf and your friendly organizer of GR8Conf Europe... In 2009 Guillaume Laforge and I founded the GR8Conf. It was a gr8 success - with over 100 attendees from 17 countries around the world. Now seven years later, GR8Conf is still going stronger. Besides doing GR8Conf, Søren works for OCI - the home of Grails, where he everyday gets to work with his passion: Groovy and Grails. I have worked in the Java world for over 13 years, and have a gr8 passion for Groovy, Grails, Griffon and the other gr8 technologies.<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 112,
+        "title": "Welcome to GR8Conf",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 656,
+        "title": "Meet & Greet",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 657,
+        "title": "Prizedraw, goodbyes and stuff",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "TBA",
+    "company": "TBA",
+    "twitter": "gr8conf",
+    "image": "http://cfp.gr8conf.org/profile/img/115",
+    "bio": "<p>To Be Announced. Stay tuned<\u002fp>",
+    "shortBio": null,
+    "featured": false,
+    "talks": [
+      {
+        "id": 528,
+        "title": "Keynote",
+        "level": "INTERMEDIATE"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vladimír Oraný",
+    "company": "agorapulse",
+    "twitter": "musketyr",
+    "image": "http://cfp.gr8conf.org/profile/img/3",
+    "bio": "<p>Vladimir is Test Fascilitator at agorapulse. He is interested in code quality, domain specific languages, cloud computing and writing magical code using AST transformations. He is a creator of Spreadsheet Builder, Gru &amp; Dru frameworks.<\u002fp>",
+    "shortBio": "Test Fascilitator at agorapulse",
+    "featured": false,
+    "talks": [
+      {
+        "id": 581,
+        "title": "Deployment is not the End",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 572,
+        "title": "Excel in Groovy",
+        "level": "BEGINNER"
+      },
+      {
+        "id": 571,
+        "title": "Simplified Grails Testing with Gru & Dru",
+        "level": "BEGINNER"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Zachary Klein",
+    "company": "OCI",
+    "twitter": "ZacharyAKlein",
+    "image": "http://cfp.gr8conf.org/profile/img/211",
+    "bio": "<p>Zachary Klein is a member of the OCI Grails team, has been practicing Java web development for more than 6 years, and has been practicing React/Angular development for the past 2 years. Beginning as an independent consultant in 2010, he has worked in a wide variety of domains, including real estate, analytics, and e-commerce. Outside of the JVM and web dev space, Zachary has dabbled in iOS development, audio engineering, and *nix administration. He is the author of the Vue and React profiles for Grails, as well as a contributor to Grails Guides and other projects around the framework. Zachary's home base is in St Louis, MO., along with his wife, Beth, and two programming protégés (aka sons), John and Timothy.<\u002fp>",
+    "shortBio": "On the Grails Team at OCI",
+    "featured": false,
+    "talks": [
+      {
+        "id": 544,
+        "title": "Grails & React Workshop",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 545,
+        "title": "Grails and the Wonderful World of Javascript Frameworks",
+        "level": "INTERMEDIATE"
+      },
+      {
+        "id": 592,
+        "title": "Room with a Vue - Building Grails apps with Vue.js",
+        "level": "BEGINNER"
+      }
+    ]
+  }
+]

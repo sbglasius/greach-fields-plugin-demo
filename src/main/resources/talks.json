@@ -1,0 +1,1826 @@
+[
+  {
+    "id": 645,
+    "title": "6 things you need to know about GORM 6",
+    "summary": "<p>GORM is the data access technology offered by Grails, and one of its spin-offs. This talk covers the 6 most important new features of GORM 6:<\u002fp>\n<ol>\n  <li>GORM without Grails and without Spring.<\u002fli>\n  <li>Multi-tenancy.<\u002fli>\n  <li>RxGORM.<\u002fli>\n  <li>Multiple datasource support.<\u002fli>\n  <li>Unit testing.<\u002fli>\n  <li>Data Services.<\u002fli>\n<\u002fol>",
+    "speakers": [
+      {
+        "id": 7,
+        "name": "Alvaro Sanchez-Mariscal"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Multi-tenancy",
+      "grails",
+      "Gorm",
+      "Spring boot",
+      "Rxgorm"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_823_422_645",
+      "start": "09:55",
+      "end": "10:45",
+      "duration": 50,
+      "talk": {
+        "id": 645,
+        "title": "6 things you need to know about GORM 6",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 7,
+          "name": "Alvaro Sanchez-Mariscal",
+          "twitter": "alvaro_sanchez"
+        }
+      ]
+    }
+  },
+  {
+    "id": 625,
+    "title": "Becoming a Groovy Team",
+    "summary": "<p>tl;dr I will describe the influences on team effectiveness, show what our team is doing to improve our team effectiveness, and discuss the challenges we had and the lessons we learned, so far.<\u002fp><p>-<\u002fp><p>Many projects are done collaboratively by teams. The team generates the outcome, creates new ideas and ideally organises itself. On the other hand there are a challenges like unclear communication, social structures and knowledge sharing, that can influence productivity, and feelgood factors. Following the learnings of recent research on the dysfunctions of teams, and influences on team effectiveness, I will show, what we try on our team to implement those learnings. I want to share our challenges we had so far, like how to find time for the team, when there is work to be done. Also the lessons we learned so far will be addressed.<\u002fp><p>Disclaimer: Non-Technical Talk<\u002fp>",
+    "speakers": [
+      {
+        "id": 199,
+        "name": "Christian Streibl"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Developer productivity",
+      "Team",
+      "Devops",
+      "Non-technical"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_813_386_625",
+      "start": "10:40",
+      "end": "11:30",
+      "duration": 50,
+      "talk": {
+        "id": 625,
+        "title": "Becoming a Groovy Team",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 199,
+          "name": "Christian Streibl",
+          "twitter": "codestoe"
+        }
+      ]
+    }
+  },
+  {
+    "id": 562,
+    "title": "Bring your infrastructure under control with Infrastructor",
+    "summary": "<p>An introduction to Infrastructor - an Infrastructure as Code framework written in Groovy. It provides a Domain Specific Language for server provisioning and automation. The presentation will cover main features of Infrastructor and show how to get started with it.<\u002fp><p>Project Page: https://github.com/infrastructor/infrastructor Slides: https://www.slideshare.net/nirro/infrastructor<\u002fp>",
+    "speakers": [
+      {
+        "id": 217,
+        "name": "Stanislav Tiurikov"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Infrastructure as code",
+      "Devops",
+      "Infrastructor"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_814_395_562",
+      "start": "15:50",
+      "end": "16:40",
+      "duration": 50,
+      "talk": {
+        "id": 562,
+        "title": "Bring your infrastructure under control with Infrastructor",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 217,
+          "name": "Stanislav Tiurikov",
+          "twitter": "tyurikov"
+        }
+      ]
+    }
+  },
+  {
+    "id": 620,
+    "title": "Building Asynchronous and Non-Blocking HTTP Applications with Ratpack",
+    "summary": "<p>Ratpack is a library to write asynchronous and non-blocking HTTP applications. The library is written in Java 8 and we can implement the application code in Java 8 or Groovy. The HTTP IO handling is implemented with Netty, which means that a lot of requests can be handled without a lot of memory needed by the application. This makes Ratpack HTTP applications ideal for writing RESTful micro services and for deploying to cloud services where we need to pay for memory requirements. In this talk we will learn what Ratpack is and what the architecture looks like. We will see a lot of code samples showing how to write an application in Ratpack using Groovy.<\u002fp>",
+    "speakers": [
+      {
+        "id": 51,
+        "name": "Hubert Klein Ikkink"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Ratpack",
+      "groovy"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_824_424_620",
+      "start": "11:15",
+      "end": "12:05",
+      "duration": 50,
+      "talk": {
+        "id": 620,
+        "title": "Building Asynchronous and Non-Blocking HTTP Applications with Ratpack",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 51,
+          "name": "Hubert Klein Ikkink",
+          "twitter": "mrhaki"
+        }
+      ]
+    }
+  },
+  {
+    "id": 603,
+    "title": "Coding Tests:  Why You Don't Need Them During Interviews",
+    "summary": "<p>Technical organizations have a rather interesting problem. Employees add values by the skills they are proficient with. It's important since those skills need to fit with the technology the company has chosen, mesh well with the skills of coworkers, and are ever so important in delivering results so that profits can be made. Judging those technical skills in just a short amount of time provided by an interview can be difficult. Many have attempted to better judge a candidate's technical skills lately with coding exercises during the hiring process. But, coding exercises can cause many very talented developers to fall through the cracks and good candidates can be lost. Why? Other professions don't do this. A doctor interviewing for a job isn't told to perform an appendectomy and send in the appendix as part of an interview. This session will: 1) Show the dangers of coding tests 2) Suggest alternatives for coding tests 3) Show how to minimize the dangers if you MUST use the coding test<\u002fp>",
+    "speakers": [
+      {
+        "id": 162,
+        "name": "Lee Fox"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Coding tests",
+      "Job interviews"
+    ],
+    "level": "BEGINNER",
+    "slot": {}
+  },
+  {
+    "id": 582,
+    "title": "Common Security Issues ... and how we can prevent them from appearing in my Grails/Ratpack application",
+    "summary": "<p>We will take a look at some of the most common security issues today, and study some of the pitfalls that can be made as programmers and DevOps teams.<\u002fp><p>The examples I will show will be made with Grails and Ratpack, but we will also see how to incorporate security testing into our CI pipeline.<\u002fp>",
+    "speakers": [
+      {
+        "id": 97,
+        "name": "Jacob Aae Mikkelsen"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Security"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_829_410_582",
+      "start": "14:05",
+      "end": "14:55",
+      "duration": 50,
+      "talk": {
+        "id": 582,
+        "title": "Common Security Issues ... and how we can prevent them from appearing in my Grails/Ratpack application",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 97,
+          "name": "Jacob Aae Mikkelsen",
+          "twitter": "JacobAae"
+        }
+      ]
+    }
+  },
+  {
+    "id": 647,
+    "title": "DSL 101",
+    "summary": "<p>Groovy is a great language to create domain specific languages with a lot of different options with pros and cons. This session shows the paths through the feature jungle and give hints when to use what and why.<\u002fp>",
+    "speakers": [
+      {
+        "id": 25,
+        "name": "Alexander (Sascha) Klein"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Dsl",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_850_391_647",
+      "start": "13:30",
+      "end": "14:20",
+      "duration": 50,
+      "talk": {
+        "id": 647,
+        "title": "DSL 101",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 25,
+          "name": "Alexander (Sascha) Klein",
+          "twitter": "saschaklein"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "title": "Deploying, Scaling, and Running Grails on AWS and VPC",
+    "summary": "<p>This talk will cover how to get your application running on AWS VPC and related services. We will go over some related services and their current state like RDS, autoscaling, s3, cloudfront, s3fs, ebs, elastic beanstalk, etc and how your Grails application can benefit from using these. The networking can also be confusing with your application so we'll cover the basics here as well. I will share lots of random nuggets of information that I have learned the hard and and recommended practices of configuration of your VPC as well.<\u002fp>",
+    "speakers": [
+      {
+        "id": 29,
+        "name": "Ryan Vanderwerf"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Aws",
+      "Auto-scaling",
+      "grails",
+      "Devops",
+      "Vpc"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_847_407_34",
+      "start": "12:15",
+      "end": "13:05",
+      "duration": 50,
+      "talk": {
+        "id": 34,
+        "title": "Deploying, Scaling, and Running Grails on AWS and VPC",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 29,
+          "name": "Ryan Vanderwerf",
+          "twitter": "RyanVanderwerf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "title": "Deploying, Scaling, and Running Grails on AWS and VPC",
+    "summary": "<p>This talk will cover how to get your application running on AWS VPC and related services. We will go over some related services and their current state like RDS, autoscaling, s3, cloudfront, s3fs, ebs, elastic beanstalk, etc and how your Grails application can benefit from using these. The networking can also be confusing with your application so we'll cover the basics here as well. I will share lots of random nuggets of information that I have learned the hard and and recommended practices of configuration of your VPC as well.<\u002fp>",
+    "speakers": [
+      {
+        "id": 29,
+        "name": "Ryan Vanderwerf"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Aws",
+      "Auto-scaling",
+      "grails",
+      "Devops",
+      "Vpc"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_847_407_34",
+      "start": "12:15",
+      "end": "13:05",
+      "duration": 50,
+      "talk": {
+        "id": 34,
+        "title": "Deploying, Scaling, and Running Grails on AWS and VPC",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 29,
+          "name": "Ryan Vanderwerf",
+          "twitter": "RyanVanderwerf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 581,
+    "title": "Deployment is not the End",
+    "summary": "<p>The work on a project is not over when the code is committed to the repository or your feature branch is merged. That is just a beginning. Let's learn how to use popular Gradle and Grails plugin to deploy and monitor your application on AWS Elastic Beanstalk and how to monitor it with popular tools New Relic and Sentry.<\u002fp>",
+    "speakers": [
+      {
+        "id": 3,
+        "name": "Vladimír Oraný"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Elastic beanstalk",
+      "Aws",
+      "grails",
+      "Sentry",
+      "New relic",
+      "Devops",
+      "groovy",
+      "Monitoring"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_827_429_581",
+      "start": "14:05",
+      "end": "14:55",
+      "duration": 50,
+      "talk": {
+        "id": 581,
+        "title": "Deployment is not the End",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 3,
+          "name": "Vladimír Oraný",
+          "twitter": "musketyr"
+        }
+      ]
+    }
+  },
+  {
+    "id": 565,
+    "title": "DevOps Archeology",
+    "summary": "<p>Back in at the 2001 OOPSLA Conference, the term Software Archeology was first coined. It gave a set of tools and processes for understanding a poorly documented and poorly maintained software architecture. It didn’t just work for the undocumented codebases, but ones that are incredibly large and complex, even if good documentation exists. The idea was to follow the true archeology with investigative work to understand the mindsets of the people who did the original implementations. Nowadays, the problem of understanding software still exists, but has also grown by a quite with the larger scales of production environments that are often times distributed or found in the cloud. So, this session will help the DevOps engineer walking into a new shop with tools and techniques to understand, not only the code, but the entire production system as well. This will help provide faster ramp time, higher quality software implementations, and more stable production environments.<\u002fp>",
+    "speakers": [
+      {
+        "id": 162,
+        "name": "Lee Fox"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Agile",
+      "System administration",
+      "Architecture",
+      "Devops"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_845_403_565",
+      "start": "09:55",
+      "end": "10:45",
+      "duration": 50,
+      "talk": {
+        "id": 565,
+        "title": "DevOps Archeology",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 162,
+          "name": "Lee Fox",
+          "twitter": "FoxInATX"
+        }
+      ]
+    }
+  },
+  {
+    "id": 578,
+    "title": "DevOps Glue - Task Automation with Gitlab-CI and Groovy",
+    "summary": "<p>How do you automate your infrastructure and processes? A bunch of bash scripts, manually deployed on a number of servers, triggered by a cronjob? A new microservice for every task? Serverless computing maybe? There might be an easier solution, so why not simply leverage your existing CI infrastructure for implementing versioned and monitorable task automation?<\u002fp><p>This talk demonstrates how to utilize Gitlab-CI pipelines and Groovy scripts in order to automate all the things.<\u002fp>",
+    "speakers": [
+      {
+        "id": 187,
+        "name": "Kevin Wittek"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Gitlab",
+      "Ci",
+      "Devops",
+      "groovy"
+    ],
+    "level": "BEGINNER",
+    "slot": {}
+  },
+  {
+    "id": 580,
+    "title": "Developing Apache Camel microservices on Kubernetes",
+    "summary": "<p>As a Java developer its daunting to learn how to get started with developing container based applications. This session teaches you how to do get on a good start by showing you how you can build Java cloud-ready applications from zero to deployment on a local running Kubernetes. <\u002fp><p>We do this by building a set of Apache Camel based microservices (can be any kind of JVM technology, also Groovy) that uses popular technologies such as Spring Boot and WildFly Swarm. You will see how to build, deploy and run these applications, and even with live Java debugging from within the Java editor. <\u002fp><p>Building and designing cloud-ready container based applications impacts how we develop. We discuss practices how to build distributed and fault tolerant microservices with technologies such as Kubernetes Services, Netflix Hystrix, Camel EIP patterns, and Istio. You will see live demos of us killing containers to test fault tolerance.<\u002fp><p>This presentation is 50% slides and 50% demo.<\u002fp>",
+    "speakers": [
+      {
+        "id": 69,
+        "name": "Claus Ibsen"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Cloud",
+      "Camel",
+      "Docker",
+      "Integration",
+      "Java",
+      "Devops",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_854_414_580",
+      "start": "16:25",
+      "end": "17:15",
+      "duration": 50,
+      "talk": {
+        "id": 580,
+        "title": "Developing Apache Camel microservices on Kubernetes",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 69,
+          "name": "Claus Ibsen",
+          "twitter": "davsclaus"
+        }
+      ]
+    }
+  },
+  {
+    "id": 659,
+    "title": "Docker Best Practices in development and Production",
+    "summary": "<p>What are the best practices with docker in Development, Staging and Production with regards to security.<\u002fp><p>Key takeaways:  - Security is not an afterthought with containers.  - Know what is some of the new features docker support eg. multistage, secrets, docker-compose, local kubernetes  - Current cluster implementation with Docker Swarm and Kubernetes.<\u002fp><p>https://medium.com/@kevinsimper/how-we-do-docker-multi-stage-builds-and-secure-sharing-of-private-repositories-956eda84f3b8<\u002fp>",
+    "speakers": [
+      {
+        "id": 239,
+        "name": "Kevin Simper"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Docker",
+      "Devops"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_853_410_659",
+      "start": "14:05",
+      "end": "14:55",
+      "duration": 50,
+      "talk": {
+        "id": 659,
+        "title": "Docker Best Practices in development and Production",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 239,
+          "name": "Kevin Simper",
+          "twitter": "kevinsimper"
+        }
+      ]
+    }
+  },
+  {
+    "id": 570,
+    "title": "Effective DevOps:  Build a High Performance Team",
+    "summary": "<p>A High Performance Team is a team that is able to out perform similar teams, or to overdeliver on expectations given to the team considering its composition. This is the Nirvana state that Agile teams strive for. It can be can be a challenge to build teams characterized by High Performance, especially in a DevOps arena that tends to have a lot of interrupts driven from customer engagement and production outages.<\u002fp><p>This presentation will talk about High Performance Teams and how to build them within the DevOps arena. Attendees will leave will new perspective and tools to bring back to their companies to start building High Performance Teams in DevOps.<\u002fp>",
+    "speakers": [
+      {
+        "id": 162,
+        "name": "Lee Fox"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Developer productivity",
+      "Devops"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_849_416_570",
+      "start": "17:25",
+      "end": "18:15",
+      "duration": 50,
+      "talk": {
+        "id": 570,
+        "title": "Effective DevOps:  Build a High Performance Team",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 162,
+          "name": "Lee Fox",
+          "twitter": "FoxInATX"
+        }
+      ]
+    }
+  },
+  {
+    "id": 572,
+    "title": "Excel in Groovy",
+    "summary": "<p>Business users love to interact with applications with spreadsheet files as much as the developers hate doing so. There are many ways how to generate Excel files in Groovy, starting with \"CSV will do\" approach or \"Generate HTML and save it as XLS\", but what your users really is to get rich content full of colors, different borders and fonts, filters and more. Apache POI is a powerful library which allows you to create such documents but it is difficult to use. Spreadsheet Builder provides declarative DSL to create Excel files with grace. The DSL for writing spreadsheets is mirrored in query language to read spreadsheets which can be used to import or test generated files more easily. After a short introduction, the framework will be presented in Groovy live examples.<\u002fp>",
+    "speakers": [
+      {
+        "id": 3,
+        "name": "Vladimír Oraný"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Apache poi",
+      "Excel",
+      "groovy"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_812_395_572",
+      "start": "15:50",
+      "end": "16:40",
+      "duration": 50,
+      "talk": {
+        "id": 572,
+        "title": "Excel in Groovy",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 3,
+          "name": "Vladimír Oraný",
+          "twitter": "musketyr"
+        }
+      ]
+    }
+  },
+  {
+    "id": 587,
+    "title": "Functional Groovy",
+    "summary": "<p>There are many advantages to writing programs using a functional style. Groovy is a multi-faceted language which supports both functional and imperative styles of programming. This talk looks at how to use Groovy while adhering to the most popular functional programming idioms.<\u002fp><p>Topics covered include using closures, currying and partial evaluation, closure composition, Groovy meta-programming and type checking tricks for the functional programmer, trampolining, using Java functional libraries, immutable data structures, lazy and infinite lists and leveraging Java8 lambdas.<\u002fp>",
+    "speakers": [
+      {
+        "id": 127,
+        "name": "Paul King"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Functional programming",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_820_405_587",
+      "start": "11:15",
+      "end": "12:05",
+      "duration": 50,
+      "talk": {
+        "id": 587,
+        "title": "Functional Groovy",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 127,
+          "name": "Paul King",
+          "twitter": "paulk_asert"
+        }
+      ]
+    }
+  },
+  {
+    "id": 654,
+    "title": "GEB best pratices",
+    "summary": "<p>TBA<\u002fp>",
+    "speakers": [
+      {
+        "id": 77,
+        "name": "Marcin Erdmann"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Geb",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_818_410_654",
+      "start": "14:05",
+      "end": "14:55",
+      "duration": 50,
+      "talk": {
+        "id": 654,
+        "title": "GEB best pratices",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 77,
+          "name": "Marcin Erdmann",
+          "twitter": "marcinerdmann"
+        }
+      ]
+    }
+  },
+  {
+    "id": 584,
+    "title": "GalecinoCar - a self driving car using machine learning, webservices, Java, and Groovy!",
+    "summary": "<p>We've developed a 1/16 scale self driving car using Grails Team's new microservice framework from the OCI Grails team for the big anniversary of Gr8Conf! This is a port of DonkeyCar project that was leveraged at re:Invent 2017 - a Python based project to use Java and Groovy. We'll show how we built such a thing with this great new technology and show you how we build it. We will have a demonstration, perhaps in the Lobby afterwards of the car driving around. Learn about how machine learning, Raspberry Pi 3, Particle, Groovy and Java are used to make such a wonder! Co-presented with Lee Fox.<\u002fp>",
+    "speakers": [
+      {
+        "id": 29,
+        "name": "Ryan Vanderwerf"
+      },
+      {
+        "id": 162,
+        "name": "Lee Fox"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Raspberry pi",
+      "Ai",
+      "Tensorflow",
+      "Machine learning",
+      "Particle"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_843_414_584",
+      "start": "16:25",
+      "end": "17:15",
+      "duration": 50,
+      "talk": {
+        "id": 584,
+        "title": "GalecinoCar - a self driving car using machine learning, webservices, Java, and Groovy!",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 29,
+          "name": "Ryan Vanderwerf",
+          "twitter": "RyanVanderwerf"
+        },
+        {
+          "id": 162,
+          "name": "Lee Fox",
+          "twitter": "FoxInATX"
+        }
+      ]
+    }
+  },
+  {
+    "id": 602,
+    "title": "Getting started with G* tech on Google Cloud Platform",
+    "summary": "<p>Time to release your marvelous project or website, powered with GR8 tech, into the wild? Let's see together what Google Cloud Platform has to provide for the Apache Groovy ecosystem developer. If you have a Grails or Ratpack app, what are the best compute options for deploying it? What other services are useful to your app: databases with Cloud SQL, messaging with Cloud Pub/Sub, monitoring, and more, are at your disposal. We'll explore together what options you have to deploy and scale your next great idea in the Google cloud.<\u002fp>",
+    "speakers": [
+      {
+        "id": 34,
+        "name": "Guillaume Laforge"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Cloud",
+      "grails",
+      "Devops",
+      "Google cloud",
+      "Ratpack",
+      "Workshop",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_841_444_602",
+      "start": "09:55",
+      "end": "12:05",
+      "duration": 130,
+      "talk": {
+        "id": 602,
+        "title": "Getting started with G* tech on Google Cloud Platform",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 34,
+          "name": "Guillaume Laforge",
+          "twitter": "glaforge"
+        }
+      ]
+    }
+  },
+  {
+    "id": 322,
+    "title": "Gradle Plugin Writing Workshop",
+    "summary": "<p>This half-day workshop takes attendees through all the steps of writing their first Gradle plugin. Using an idiomatic approach attendees can create a DSL that is both gradlesque and readable.<\u002fp><p>Some of the technical to be overed include:<\u002fp>\n<ul>\n  <li>Setting up a Gradle plugin project<\u002fli>\n  <li>Building for wide Gradle &amp; JDK compatibility<\u002fli>\n  <li>Idioms for creating task properties<\u002fli>\n  <li>Hooking into build and configuration events<\u002fli>\n  <li>Dynamic dependency loading<\u002fli>\n  <li>Publishing the plugin<\u002fli>\n  <li>Testing<\u002fli>\n<\u002ful><p>Attendees will also receive a coupon to a free copy of the presenter's book \"Idiomatic Gradle: 25 Recipes for Plugin Authors\", <\u002fp><p>Prerequisites: Be able to code in Groovy. Know the basics of writing Gradle scripts.<\u002fp>",
+    "speakers": [
+      {
+        "id": 81,
+        "name": "Schalk Cronjé"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Gradle plugin development",
+      "gradle",
+      "Plugins",
+      "Workshop"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_838_442_322",
+      "start": "14:05",
+      "end": "15:55",
+      "duration": 110,
+      "talk": {
+        "id": 322,
+        "title": "Gradle Plugin Writing Workshop",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 81,
+          "name": "Schalk Cronjé",
+          "twitter": "ysb33r"
+        }
+      ]
+    }
+  },
+  {
+    "id": 544,
+    "title": "Grails & React Workshop",
+    "summary": "<p>This workshop will introduce you to several approaches to using the React JavaScript library with your Grails 3 projects. Whether your team has an existing Grails app that needs a new UI, or you are designing a brand new microservice architecture with these frameworks, you will gain a strong understanding of the front-end landscape and how it intersects with your Grails 3 applications. While we will focus on React in this course, many of the techniques are applicable to other modern JavaScript frameworks as well. <\u002fp><p>Outline: - Introduction to React - Grails Profiles - Webpack/Node/npm/yarn - Asset Pipeline - Spring Security REST - Bonus: Server-side Rendering - Bonus: GORM/GraphQL<\u002fp>",
+    "speakers": [
+      {
+        "id": 211,
+        "name": "Zachary Klein"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Rest",
+      "Microservices",
+      "Nashorn",
+      "Asset-pipeline",
+      "React",
+      "Javascript",
+      "Webpack",
+      "Workshop",
+      "Nodejs"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_842_445_544",
+      "start": "13:05",
+      "end": "14:55",
+      "duration": 110,
+      "talk": {
+        "id": 544,
+        "title": "Grails & React Workshop",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 211,
+          "name": "Zachary Klein",
+          "twitter": "ZacharyAKlein"
+        }
+      ]
+    }
+  },
+  {
+    "id": 545,
+    "title": "Grails and the Wonderful World of Javascript Frameworks",
+    "summary": "<p>The scene of web development is changing. MVC and page-based CRUD applications used to make great demos, but now users and clients are demanding more. Single Page Applications, built with frameworks and libraries like Angular and React, are becoming standard fare for many new projects. Where do “traditional” MVC frameworks - such as Rails, Spring/Spring Boot, and Grails - fit in this picture?<\u002fp><p>Fortunately, Grails hasn't been standing still. Recent versions of the framework have introduced powerful features that are directly aimed at supporting RESTful/microservice architectures as well as SPAs. In this talk, we'll look at several approaches to using Grails along with modern Javascript apps, including overviews of plugins, profiles, and best practices when standing up this versatile JVM web framework shoulder-to-shoulder with the cool new kids. Let's do this!<\u002fp>",
+    "speakers": [
+      {
+        "id": 211,
+        "name": "Zachary Klein"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "gradle",
+      "grails",
+      "Angular",
+      "Asset-pipeline",
+      "React",
+      "Javascript",
+      "Nodejs"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_811_393_545",
+      "start": "14:30",
+      "end": "15:20",
+      "duration": 50,
+      "talk": {
+        "id": 545,
+        "title": "Grails and the Wonderful World of Javascript Frameworks",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 211,
+          "name": "Zachary Klein",
+          "twitter": "ZacharyAKlein"
+        }
+      ]
+    }
+  },
+  {
+    "id": 545,
+    "title": "Grails and the Wonderful World of Javascript Frameworks",
+    "summary": "<p>The scene of web development is changing. MVC and page-based CRUD applications used to make great demos, but now users and clients are demanding more. Single Page Applications, built with frameworks and libraries like Angular and React, are becoming standard fare for many new projects. Where do “traditional” MVC frameworks - such as Rails, Spring/Spring Boot, and Grails - fit in this picture?<\u002fp><p>Fortunately, Grails hasn't been standing still. Recent versions of the framework have introduced powerful features that are directly aimed at supporting RESTful/microservice architectures as well as SPAs. In this talk, we'll look at several approaches to using Grails along with modern Javascript apps, including overviews of plugins, profiles, and best practices when standing up this versatile JVM web framework shoulder-to-shoulder with the cool new kids. Let's do this!<\u002fp>",
+    "speakers": [
+      {
+        "id": 211,
+        "name": "Zachary Klein"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "gradle",
+      "grails",
+      "Angular",
+      "Asset-pipeline",
+      "React",
+      "Javascript",
+      "Nodejs"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_811_393_545",
+      "start": "14:30",
+      "end": "15:20",
+      "duration": 50,
+      "talk": {
+        "id": 545,
+        "title": "Grails and the Wonderful World of Javascript Frameworks",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 211,
+          "name": "Zachary Klein",
+          "twitter": "ZacharyAKlein"
+        }
+      ]
+    }
+  },
+  {
+    "id": 613,
+    "title": "GraphQL applications with Ratpack",
+    "summary": "<p>Nowadays front end applications are far more complex that we used to do. That creates new challenges between front and back developers that we rarely faced before and leading to new scenarios: How many times did you have to create and end point that you felt it was serving too much stuff ? Have you ever force your frontend fellows to attack many end points just to paint a single page ? Well, maybe there is a middle term. During this talk I'll try to explain how an app using Ratpack + GraphQL could mitigate these problems, making back end data access more effective from a backend point of view and a lot easier for front end developers.<\u002fp>",
+    "speakers": [
+      {
+        "id": 227,
+        "name": "Mario Garcia"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Graphql",
+      "Ratpack",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_815_405_613",
+      "start": "11:15",
+      "end": "12:05",
+      "duration": 50,
+      "talk": {
+        "id": 613,
+        "title": "GraphQL applications with Ratpack",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 227,
+          "name": "Mario Garcia",
+          "twitter": "marioggar"
+        }
+      ]
+    }
+  },
+  {
+    "id": 607,
+    "title": "Groovy Test Fixtures",
+    "summary": "<p>This talk will discuss techniques and tools which are useful when authoring tests higher up the test pyramid. Examples, often including code, of test fixtures from both OSS and speaker's work which enable writing tests in which the system under test communicates with external services will be given. All this will be presented with using Groovy in mind and include discussion of certain features of the language that make it a perfect fit for writing test oriented DSLs. You should attend this session if you would like to learn how to write reliable and flexible integration and end to end tests in an easier way.<\u002fp>",
+    "speakers": [
+      {
+        "id": 77,
+        "name": "Marcin Erdmann"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Testing",
+      "Integrated tests",
+      "End to end tests"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_826_422_607",
+      "start": "09:55",
+      "end": "10:45",
+      "duration": 50,
+      "talk": {
+        "id": 607,
+        "title": "Groovy Test Fixtures",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 77,
+          "name": "Marcin Erdmann",
+          "twitter": "marcinerdmann"
+        }
+      ]
+    }
+  },
+  {
+    "id": 586,
+    "title": "Groovy compile-time metaprogramming workshop",
+    "summary": "<p>In this workshop you'll learn about Groovy's AST transformation mechanism. We'll cover how they work on the inside and give details about how you can write your own using Java, Groovy or Groovy's own AST building DSLs. We also show how to make use of AST transforms when writing your own DSLs and cover the use of macros.<\u002fp>",
+    "speakers": [
+      {
+        "id": 127,
+        "name": "Paul King"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Dsl",
+      "Compile-time-metaprogramming",
+      "Ast",
+      "Metaprogramming"
+    ],
+    "level": "ADVANCED",
+    "slot": {
+      "uid": "slot_839_443_586",
+      "start": "16:25",
+      "end": "18:15",
+      "duration": 110,
+      "talk": {
+        "id": 586,
+        "title": "Groovy compile-time metaprogramming workshop",
+        "level": "ADVANCED"
+      },
+      "speakers": [
+        {
+          "id": 127,
+          "name": "Paul King",
+          "twitter": "paulk_asert"
+        }
+      ]
+    }
+  },
+  {
+    "id": 579,
+    "title": "Groovy integration testing with Docker and TestContainers",
+    "summary": "<p>Use a production-like, portable test environment described in code - gone is the need for heavyweight manual setup of test systems and the pain of sharing test infrastructure with multiple developers and teams. Launch a fully functional testing suite not only consisting of unit tests, but also of integration tests, right from source control. And instead of manually writing and maintaining a bunch of brittle bash scripts for instrumenting your containers, participants will learn to leverage existing knowledge in writing Spock tests and make use of the powerful TestContainers Java library.<\u002fp>",
+    "speakers": [
+      {
+        "id": 187,
+        "name": "Kevin Wittek"
+      },
+      {
+        "id": 238,
+        "name": "Matthias Rottländer"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Spock",
+      "Integration-tests",
+      "Docker",
+      "Devops",
+      "Workshop",
+      "groovy",
+      "Testcontainers"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_830_439_579",
+      "start": "10:40",
+      "end": "12:30",
+      "duration": 110,
+      "talk": {
+        "id": 579,
+        "title": "Groovy integration testing with Docker and TestContainers",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 187,
+          "name": "Kevin Wittek",
+          "twitter": "Kiview"
+        },
+        {
+          "id": 238,
+          "name": "Matthias Rottländer",
+          "twitter": "faradaxian"
+        }
+      ]
+    }
+  },
+  {
+    "id": 547,
+    "title": "Groovy update: What's new in Groovy 2.5+",
+    "summary": "<p>This talk looks at the latest features in Groovy from 2.4 through 3.0. This includes new AST transforms, new macro features, the new Parrot parser and a myriad of other new miscellaneous features. The talk outlines a broad roadmap of how the new features are planned to be rolled out and the system requirements for each version.<\u002fp>",
+    "speakers": [
+      {
+        "id": 127,
+        "name": "Paul King"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "groovy"
+    ],
+    "level": "BEGINNER",
+    "slot": {}
+  },
+  {
+    "id": 605,
+    "title": "Hackergarten on Tour",
+    "summary": "<p>Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is end the evening with a patch or similar contribution submitted to an open and public project. Everyone can join, you do not have to attend GR8Conf! What to Expect - You'll meet some gr8 people, write some gr8 code, and contribute directly to the Groovy community. Expect to leave Hackergarten knowing a Groovy framework or project a lot better, knowing how to create and submit a patch to an open source project, and meeting some new friends. There is no better way to learn about the GR8 technologies than to spend a few hours coding side by side with the project leaders and members What to Bring: Yourself, perhaps your laptop. Expect to pair program. If you don't have a laptop then someone else will.<\u002fp>",
+    "speakers": [
+      {
+        "id": 47,
+        "name": "Andres Almiray"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Hackergarten"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_808_417_605",
+      "start": "18:30",
+      "end": "22:45",
+      "duration": 255,
+      "talk": {
+        "id": 605,
+        "title": "Hackergarten on Tour",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 47,
+          "name": "Andres Almiray",
+          "twitter": "aalmiray"
+        }
+      ]
+    }
+  },
+  {
+    "id": 528,
+    "title": "Keynote",
+    "summary": "<p>TBA<\u002fp>",
+    "speakers": [
+      {
+        "id": 115,
+        "name": "TBA"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Tba",
+      "Keynote"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_832_384_528",
+      "start": "08:55",
+      "end": "10:10",
+      "duration": 75,
+      "talk": {
+        "id": 528,
+        "title": "Keynote",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 115,
+          "name": "TBA",
+          "twitter": "gr8conf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 655,
+    "title": "Launching the Micro Future: Groovy, Grails and Project Particle",
+    "summary": "<p>In this keynote, Grails founder and project lead Graeme Rocher will present the vision for the future of application development in the Micro Service and \"Server-less\" era. Presenting for the first time \"Project Particle\", the new Micro Services application development framework for Groovy and Java, built on Netty and designed from the ground-up to make developing Micro services easier.<\u002fp><p>Graeme will show how Grails, GORM and Project Particle's futures are linked and how, once again, the Groovy and Grails team at OCi will take productivity to the next level when developing Micro Services.<\u002fp>",
+    "speakers": [
+      {
+        "id": 54,
+        "name": "Graeme Rocher"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Micro-service",
+      "grails",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_833_401_655",
+      "start": "08:30",
+      "end": "09:45",
+      "duration": 75,
+      "talk": {
+        "id": 655,
+        "title": "Launching the Micro Future: Groovy, Grails and Project Particle",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 54,
+          "name": "Graeme Rocher",
+          "twitter": "graemerocher"
+        }
+      ]
+    }
+  },
+  {
+    "id": 577,
+    "title": "Leaving Javaland - bring your boots! Spring-Boot for Groovy developers",
+    "summary": "<p>Every Groovy developer knows Grails. But how many have peeked under the covers and looked into the underlying Spring-Boot framework? And did you ever consider writing your applications directly with Spring-Boot?<\u002fp><p>This talk demonstrates how to leverage Spring-Boots’s built-in Groovy support for writing small and concise Microservice sas an alternative to Grails. We’ll also take a look into the Spring-Boot ecosystem and explore projects and features such as Spring-Data (for persistence and ORM), Spring-Web-MVC and Spring-Web-Reactive. As a deep dive, we’ll also delve into Spring-Boot’s underlying IoC container and DI mechanism, giving you a much better understanding of Grails’ core.<\u002fp>",
+    "speakers": [
+      {
+        "id": 187,
+        "name": "Kevin Wittek"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "grails",
+      "Spring boot",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_819_412_577",
+      "start": "15:05",
+      "end": "15:55",
+      "duration": 50,
+      "talk": {
+        "id": 577,
+        "title": "Leaving Javaland - bring your boots! Spring-Boot for Groovy developers",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 187,
+          "name": "Kevin Wittek",
+          "twitter": "Kiview"
+        }
+      ]
+    }
+  },
+  {
+    "id": 610,
+    "title": "Machine Learning APIs are getting Groovy!",
+    "summary": "<p>Let's discover Machine Learning APIs, and what you can do with them, but of course, by using Apache Groovy! We'll have a look at image and speech recognition, video intelligence, as well as natural text processing, using the Google Cloud APIs.<\u002fp>",
+    "speakers": [
+      {
+        "id": 34,
+        "name": "Guillaume Laforge"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Machine learning",
+      "Google cloud",
+      "groovy"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_809_386_610",
+      "start": "10:40",
+      "end": "11:30",
+      "duration": 50,
+      "talk": {
+        "id": 610,
+        "title": "Machine Learning APIs are getting Groovy!",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 34,
+          "name": "Guillaume Laforge",
+          "twitter": "glaforge"
+        }
+      ]
+    }
+  },
+  {
+    "id": 619,
+    "title": "Making Asciidoctor Groovy",
+    "summary": "<p>Asciidoctor is an excellent tool to write documentation. The markup is easy and consistent. We can keep the documentation close to our code and work with it like code. Asciidoctor als supports extensions to add new functionality. Extensions can be written in a JVM language using AsciidoctorJ. In this talk we write new extensions for Asciidoctor using Groovy of course. We see the different extension points in Asciidoctor and how to write Groovy code to add new functionality to Asciidoctor.<\u002fp>",
+    "speakers": [
+      {
+        "id": 51,
+        "name": "Hubert Klein Ikkink"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Documentation",
+      "Asciidoctor",
+      "groovy"
+    ],
+    "level": "ADVANCED",
+    "slot": {
+      "uid": "slot_816_407_619",
+      "start": "12:15",
+      "end": "13:05",
+      "duration": 50,
+      "talk": {
+        "id": 619,
+        "title": "Making Asciidoctor Groovy",
+        "level": "ADVANCED"
+      },
+      "speakers": [
+        {
+          "id": 51,
+          "name": "Hubert Klein Ikkink",
+          "twitter": "mrhaki"
+        }
+      ]
+    }
+  },
+  {
+    "id": 658,
+    "title": "Making Docker and Kubernetes a success at your Company",
+    "summary": "<p>How to take docker and kubernetes from theory to practice as your company.<\u002fp><p>Story of how we took Connected Cars from nothing to a full self-serving platform in one year.<\u002fp><p>Key takeaways: - The best adoption starts from the developers - Repeatable builds - Docker and Continues Integration is the 20% effort with 80% gains - Kubernetes is complex but worth it, takes the scary out of deploying<\u002fp>",
+    "speakers": [
+      {
+        "id": 239,
+        "name": "Kevin Simper"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Docker",
+      "Devops",
+      "Kubernetes"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_856_412_658",
+      "start": "15:05",
+      "end": "15:55",
+      "duration": 50,
+      "talk": {
+        "id": 658,
+        "title": "Making Docker and Kubernetes a success at your Company",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 239,
+          "name": "Kevin Simper",
+          "twitter": "kevinsimper"
+        }
+      ]
+    }
+  },
+  {
+    "id": 656,
+    "title": "Meet & Greet",
+    "summary": "<p>This evening is dedicated to to beers, snacks, and friendly chitchat. This year with an extra feature: A band!<\u002fp><p>This is your official chance to mingle with the rock stars of the Groovy domain and talk with all the other GR8 people.<\u002fp><p>Besides feeding your brain with the latest and greatest from Groovy, we decided that feeding you food makes just as much sense...<\u002fp><p>From around 19’ish there will be food to go with the beers :-)<\u002fp><p>Beers are sponsored by Gennemtænkt IT and brewed and bottled by your friendly neighborhood GR8Conf crew.<\u002fp>",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Søren Glasius (GR8Conf)"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Meet & greet"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_835_398_656",
+      "start": "18:05",
+      "end": "22:45",
+      "duration": 280,
+      "talk": {
+        "id": 656,
+        "title": "Meet & Greet",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Søren Glasius (GR8Conf)",
+          "twitter": "sbglasius"
+        }
+      ]
+    }
+  },
+  {
+    "id": 593,
+    "title": "Microservices love Domain-Driven Design, why and how?",
+    "summary": "<p>With the emergence of Microservices, Domain-Driven Design has become a relevent way for looking at implementing business contexts in software. This talk explains how the patterns and concepts of Domain-Driven Design relate to Microservice architectures. We will see that Microservices are not only about Bounded Contexts and that there is much more to DDD than Entities and Aggregates. In addition to that I will show how Domain Driven Design will help you to structure and model your Microservices in terms of granularity, business context and interface design (just to name a few). Finally, we will look into migrating existing monolithic applications with the help of patterns laid out in DDD. This is not a very Groovy / Grails specific talk but I think it is some very important stuff to consider when designing Microservices implemented with Groovy or Grails. I will address various Grails technologies such as the event system or an integration to Spring Cloud Stream throughout the talk.<\u002fp>",
+    "speakers": [
+      {
+        "id": 119,
+        "name": "Michael Ploed"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Domain-driven design",
+      "Microservices"
+    ],
+    "level": "BEGINNER",
+    "slot": {}
+  },
+  {
+    "id": 622,
+    "title": "Moving forward to Groovy 3.0",
+    "summary": "<p>The Java platform has been moving forward with both VM and grammar features unavailable in Groovy.<\u002fp><p>Although Groovy is more expressive than what Java is working to achieve, that gap should be closed for Groovy to stay relevant, as many popular libraries target the new Java features.<\u002fp><p>After Java 8, the Groovy's welcoming \"copy-and-paste\" backwards compatibility is reduced quite a lot, due to new language syntax and features. Also lambdas are faster than closures, and Groovy's parser is old and finicky.<\u002fp><p>With Java 9, a module system was introduced, and is currently incompatible with Groovy, since it introduces severe restrictions on how code can be packaged.<\u002fp><p>Java 10 adds the reserved type name \"var\" which muddies the water even more.<\u002fp><p>This talk gives a beta-preview of Groovy 3.0, and discusses what lambdas, the new parser, new MOP and JPMS module support will mean for Groovy, and features an interview with Daniel Sun, a relatively new Groovy committer working on 3.0 features.<\u002fp>",
+    "speakers": [
+      {
+        "id": 228,
+        "name": "Jesper Steen Møller"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Java 8",
+      "Compiler",
+      "Java 9",
+      "Java 10",
+      "groovy"
+    ],
+    "level": "ADVANCED",
+    "slot": {
+      "uid": "slot_852_391_622",
+      "start": "13:30",
+      "end": "14:20",
+      "duration": 50,
+      "talk": {
+        "id": 622,
+        "title": "Moving forward to Groovy 3.0",
+        "level": "ADVANCED"
+      },
+      "speakers": [
+        {
+          "id": 228,
+          "name": "Jesper Steen Møller",
+          "twitter": "hr_Moller"
+        }
+      ]
+    }
+  },
+  {
+    "id": 657,
+    "title": "Prizedraw, goodbyes and stuff",
+    "summary": "<p>Last session of the conference. Time to hand out prizes from our sponsors and say good bye.<\u002fp>",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Søren Glasius (GR8Conf)"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Goodbye"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_836_431_657",
+      "start": "15:25",
+      "end": "16:40",
+      "duration": 75,
+      "talk": {
+        "id": 657,
+        "title": "Prizedraw, goodbyes and stuff",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Søren Glasius (GR8Conf)",
+          "twitter": "sbglasius"
+        }
+      ]
+    }
+  },
+  {
+    "id": 643,
+    "title": "Reactive microservices with Particle (code name)",
+    "summary": "<p>Particle (code name) is a modern, JVM-based, full stack Micro Services framework designed for building modular, easily testable Micro Service applications. Particle is developed by the creators of Grails and takes inspiration from lessons learnt over the years building real-world applications from monoliths to Micro Services using Spring, Spring Boot and Grails.<\u002fp><p>This session covers the current features of Particle for building microservices, such as:<\u002fp>\n<ul>\n  <li>Dependency Injection and Inversion of Control (IoC).<\u002fli>\n  <li>Configuration system.<\u002fli>\n  <li>HTTP services.<\u002fli>\n  <li>Cloud and serverless deployments.<\u002fli>\n  <li>Management &amp; Monitoring.<\u002fli>\n<\u002ful>",
+    "speakers": [
+      {
+        "id": 7,
+        "name": "Alvaro Sanchez-Mariscal"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Serverless",
+      "Cloud",
+      "Microservices"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_858_407_643",
+      "start": "12:15",
+      "end": "13:05",
+      "duration": 50,
+      "talk": {
+        "id": 643,
+        "title": "Reactive microservices with Particle (code name)",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 7,
+          "name": "Alvaro Sanchez-Mariscal",
+          "twitter": "alvaro_sanchez"
+        }
+      ]
+    }
+  },
+  {
+    "id": 486,
+    "title": "Rediculous easy centralized application logging & monitoring",
+    "summary": "<p>Finally you have managed to pack your application and are ready to deploy it onto your infrastructure. Ready to go!<\u002fp><p>But wait, how do you deal with application logging &amp; monitoring? No problem you will just send everything to a log file… think again! * how can you give that information to the operational department or even to your fellow engineers? * how to get monitoring metric data from your application and host operating system? * how to visualise visualise the information so it is easy to query? * how can you extract data from your logging data so its makes sense? * how do you alert on certain events that happened in your application?<\u002fp><p>This hands on talk will give you an introduction on how easy it is to setup centralised logging &amp; logging introducing Fluentd, Prometheus, ElasticSearch, Docker, Grafana. During the talk we will build an environment with the tools mentioned and deploy an application which you can monitor.<\u002fp>",
+    "speakers": [
+      {
+        "id": 198,
+        "name": "Marco Pas"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Docker",
+      "grails",
+      "Fluentd",
+      "Prometheus",
+      "Devops",
+      "Spring boot"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_846_405_486",
+      "start": "11:15",
+      "end": "12:05",
+      "duration": 50,
+      "talk": {
+        "id": 486,
+        "title": "Rediculous easy centralized application logging & monitoring",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 198,
+          "name": "Marco Pas",
+          "twitter": "marcopas"
+        }
+      ]
+    }
+  },
+  {
+    "id": 592,
+    "title": "Room with a Vue - Building Grails apps with Vue.js",
+    "summary": "<p>Another year, another JavaScript framework. But could this one be different? Developers are often pulled between extremes - some libraries (like React) emphasize functional simplicity, while others major on features and developer productivity (say, Angular). Wouldn’t it be nice to have both?<\u002fp><p>Enter Vue.js.<\u002fp><p>In this talk, we’ll learn what’s special about Vue, get familiar with its ecosystem, and then dive right in to using Vue.js in a Grails application, using the recently-released Vue profile.<\u002fp>",
+    "speakers": [
+      {
+        "id": 211,
+        "name": "Zachary Klein"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Vue",
+      "Frontend",
+      "Grails profile",
+      "Javascript"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_822_412_592",
+      "start": "15:05",
+      "end": "15:55",
+      "duration": 50,
+      "talk": {
+        "id": 592,
+        "title": "Room with a Vue - Building Grails apps with Vue.js",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 211,
+          "name": "Zachary Klein",
+          "twitter": "ZacharyAKlein"
+        }
+      ]
+    }
+  },
+  {
+    "id": 571,
+    "title": "Simplified Grails Testing with Gru & Dru",
+    "summary": "<p>Did you ever have a problem preparing a data for your unit test? Have ever a properly tested controller but you have forgotten to test the URL mapping? <\u002fp><p>Dru stands for Data Reconstruction Utility and helps you to use your production data as a simple source of test data. Gru is Groovy HTTP testing framework with out of box support for Grails which allows you to test controllers in context of other artifacts such as URL mappings and interceptors.<\u002fp>",
+    "speakers": [
+      {
+        "id": 3,
+        "name": "Vladimír Oraný"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "grails",
+      "Dru",
+      "Gru",
+      "Http testing",
+      "Workshop"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_837_441_571",
+      "start": "09:55",
+      "end": "12:05",
+      "duration": 130,
+      "talk": {
+        "id": 571,
+        "title": "Simplified Grails Testing with Gru & Dru",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 3,
+          "name": "Vladimír Oraný",
+          "twitter": "musketyr"
+        }
+      ]
+    }
+  },
+  {
+    "id": 631,
+    "title": "Spock 101",
+    "summary": "<p>Spock is the powerful testing framework included in Groovy right out of the box. Build upon the JUnit runner, it is compatible with most languages and tools in the JVM world. In fact, for many Java developers, it is the initial contact with the Groovy language. <\u002fp><p>This talk starts at the beginning. It explains Spock from the ground up so that you can use it right away in your projects. Learn how given/when/then, assertions, data tables, and more make testing fun.<\u002fp>",
+    "speakers": [
+      {
+        "id": 231,
+        "name": "MaPhi Werner"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Spock",
+      "Testing",
+      "Beginner"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_810_388_631",
+      "start": "11:40",
+      "end": "12:30",
+      "duration": 50,
+      "talk": {
+        "id": 631,
+        "title": "Spock 101",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 231,
+          "name": "MaPhi Werner",
+          "twitter": "maphiwe"
+        }
+      ]
+    }
+  },
+  {
+    "id": 606,
+    "title": "Spock's New Tricks",
+    "summary": "<p>Spock is a testing DSL that leverages Groovy AST and the Groovy Compiler yielding great results. The Spock team has been hard at work since version 1.0 was released a couple years ago, adding interesting features such as soft assertions, timed executions, improvements to mock support coupled with dependency injection containers (Spring, Guice), and more. The extension mechanism has proved to be a boon as there are a handful of third part extensions that promise to make your time worth while. come learn about Spock's new features and see for yourself why Spock is the logical choice for many.<\u002fp>",
+    "speakers": [
+      {
+        "id": 47,
+        "name": "Andres Almiray"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Spock",
+      "Testing"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_825_427_606",
+      "start": "13:05",
+      "end": "13:55",
+      "duration": 50,
+      "talk": {
+        "id": 606,
+        "title": "Spock's New Tricks",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 47,
+          "name": "Andres Almiray",
+          "twitter": "aalmiray"
+        }
+      ]
+    }
+  },
+  {
+    "id": 611,
+    "title": "The Internet Of Things and capturing Time Series Data",
+    "summary": "<p>Through the Internet of Things (IoT), the world is becoming more and more interconnected and intelligent. Enormous amounts of data are being generated and need to be stored and analysed. Among all types of data, time series data (e.g., data from sensors) is becoming the most widespread. Unfortunately, collecting, storing, and analyzing massive amounts of this data is often not possible with traditional SQL databases.<\u002fp><p>This hands-on talk will introduce you to the follow subjects:<\u002fp>\n<ul>\n  <li>Connecting IoT devices to your application platform using MQTT (natively and using AWS IoT)<\u002fli>\n  <li>Introduction to Time Series Databases<\u002fli>\n  <li>Collect and process Time Series Data in your application<\u002fli>\n<\u002ful>",
+    "speakers": [
+      {
+        "id": 198,
+        "name": "Marco Pas"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Cloud",
+      "Time series",
+      "Aws",
+      "grails",
+      "Mqtt",
+      "Iot",
+      "Devops",
+      "Spring boot"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_851_388_611",
+      "start": "11:40",
+      "end": "12:30",
+      "duration": 50,
+      "talk": {
+        "id": 611,
+        "title": "The Internet Of Things and capturing Time Series Data",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 198,
+          "name": "Marco Pas",
+          "twitter": "marcopas"
+        }
+      ]
+    }
+  },
+  {
+    "id": 618,
+    "title": "The Magic Behind the Spock",
+    "summary": "<p>Spock is magic, but many people would like to demystify it. I could describe how is it possible to invent Spock's syntax with the beauty of AST transformations.<\u002fp><p>Some time ago I created blog entry about it -? http://dkublik.github.io/the-magic-behind-the-spock/ which was warmly received and in my opinion could easilly be transformed into interesting presentation :).<\u002fp>",
+    "speakers": [
+      {
+        "id": 155,
+        "name": "Dawid Kublik"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Spock",
+      "Ast"
+    ],
+    "level": "INTERMEDIATE",
+    "slot": {
+      "uid": "slot_844_416_618",
+      "start": "17:25",
+      "end": "18:15",
+      "duration": 50,
+      "talk": {
+        "id": 618,
+        "title": "The Magic Behind the Spock",
+        "level": "INTERMEDIATE"
+      },
+      "speakers": [
+        {
+          "id": 155,
+          "name": "Dawid Kublik",
+          "twitter": "dawidkublik"
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "title": "Welcome to GR8Conf",
+    "summary": "<p>This is a short introduction to the conference!<\u002fp><p>Here you can hear about what to expect, the pratical aspects of the conference and much more<\u002fp>",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Søren Glasius (GR8Conf)"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Welcome"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_831_383_112",
+      "start": "08:45",
+      "end": "08:55",
+      "duration": 10,
+      "talk": {
+        "id": 112,
+        "title": "Welcome to GR8Conf",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Søren Glasius (GR8Conf)",
+          "twitter": "sbglasius"
+        }
+      ]
+    }
+  },
+  {
+    "id": 614,
+    "title": "Why use #groovylang? How to convince your boss and others",
+    "summary": "<p>Groovy has been around for a long time, but over the last several years, Groovy has changed a lot. Some of the articles, blog posts, and talks published about early versions of Groovy are just no longer true. By the end of this session, you’ll be able to tell some of the best Groovy truth from fiction and leave with some solid arguments for your boss and others as to why Groovy is such an awesome, productive, and readable alternative language for the JVM.<\u002fp><p>We'll start with some of the community’s favorite features like special operators, optional typing, metaprogramming, and dynamic vs. static compilation. We’ll also explore popular libraries and frameworks where knowing Groovy would be helpful such as Gradle build files, Elasticsearch, Jenkins, and Apache Spark. The session concludes with ways to learn more and how to contribute to making Groovy even more <em>groovy<\u002fem>.<\u002fp>",
+    "speakers": [
+      {
+        "id": 88,
+        "name": "Jennifer Strater"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Tools",
+      "Best practices",
+      "Open source",
+      "Developer productivity",
+      "Real world experience",
+      "groovy",
+      "Contributing"
+    ],
+    "level": "BEGINNER",
+    "slot": {
+      "uid": "slot_817_409_614",
+      "start": "13:15",
+      "end": "13:40",
+      "duration": 25,
+      "talk": {
+        "id": 614,
+        "title": "Why use #groovylang? How to convince your boss and others",
+        "level": "BEGINNER"
+      },
+      "speakers": [
+        {
+          "id": 88,
+          "name": "Jennifer Strater",
+          "twitter": "codejennerator"
+        }
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "title": "Wiring NIO2 File Providers in Groovy",
+    "summary": "<p>The java.nio2.file libraries have been around since JDK7, but there is hardly any publicly available offerings that exploits these capabilites. A long-standing user of the Apache Commons VFS libraries and as author of the Groovy VFS library I have been intrigued by what could possible be done via NIO2 i.e. having a SFTP or FTP-based filesystems. Building on my experience from VFS I set out to explore authoring providers for the nio2.file interface. In this session I'll explore the interfaces, what is required in implementing providers and the challneges of implement Groovy VFS2 purely on top of NIO2.<\u002fp><p>Hopefully this will change the learning curve for others who want to travel this road and inspire some people to contribute and write some useful providers.<\u002fp>",
+    "speakers": [
+      {
+        "id": 81,
+        "name": "Schalk Cronjé"
+      }
+    ],
+    "media": [],
+    "tags": [
+      "Java",
+      "Nio2",
+      "groovy"
+    ],
+    "level": "ADVANCED",
+    "slot": {
+      "uid": "slot_840_427_335",
+      "start": "13:05",
+      "end": "13:55",
+      "duration": 50,
+      "talk": {
+        "id": 335,
+        "title": "Wiring NIO2 File Providers in Groovy",
+        "level": "ADVANCED"
+      },
+      "speakers": [
+        {
+          "id": 81,
+          "name": "Schalk Cronjé",
+          "twitter": "ysb33r"
+        }
+      ]
+    }
+  }
+]

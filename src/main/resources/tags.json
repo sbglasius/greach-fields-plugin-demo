@@ -1,0 +1,686 @@
+[
+  {
+    "tag": "Agile",
+    "talks": [
+      565
+    ]
+  },
+  {
+    "tag": "Ai",
+    "talks": [
+      584
+    ]
+  },
+  {
+    "tag": "Angular",
+    "talks": [
+      545
+    ]
+  },
+  {
+    "tag": "Apache poi",
+    "talks": [
+      572
+    ]
+  },
+  {
+    "tag": "Architecture",
+    "talks": [
+      565
+    ]
+  },
+  {
+    "tag": "Asciidoctor",
+    "talks": [
+      619
+    ]
+  },
+  {
+    "tag": "Asset-pipeline",
+    "talks": [
+      545,
+      544
+    ]
+  },
+  {
+    "tag": "Ast",
+    "talks": [
+      586,
+      618
+    ]
+  },
+  {
+    "tag": "Auto-scaling",
+    "talks": [
+      34
+    ]
+  },
+  {
+    "tag": "Aws",
+    "talks": [
+      611,
+      34,
+      581
+    ]
+  },
+  {
+    "tag": "Beginner",
+    "talks": [
+      631
+    ]
+  },
+  {
+    "tag": "Best practices",
+    "talks": [
+      614
+    ]
+  },
+  {
+    "tag": "Camel",
+    "talks": [
+      580
+    ]
+  },
+  {
+    "tag": "Ci",
+    "talks": [
+      578
+    ]
+  },
+  {
+    "tag": "Cloud",
+    "talks": [
+      602,
+      643,
+      611,
+      580
+    ]
+  },
+  {
+    "tag": "Coding tests",
+    "talks": [
+      603
+    ]
+  },
+  {
+    "tag": "Compile-time-metaprogramming",
+    "talks": [
+      586
+    ]
+  },
+  {
+    "tag": "Compiler",
+    "talks": [
+      622
+    ]
+  },
+  {
+    "tag": "Contributing",
+    "talks": [
+      614
+    ]
+  },
+  {
+    "tag": "Developer productivity",
+    "talks": [
+      625,
+      614,
+      570
+    ]
+  },
+  {
+    "tag": "Devops",
+    "talks": [
+      625,
+      602,
+      578,
+      579,
+      562,
+      611,
+      486,
+      565,
+      570,
+      34,
+      580,
+      581,
+      658,
+      659
+    ]
+  },
+  {
+    "tag": "Docker",
+    "talks": [
+      579,
+      486,
+      580,
+      658,
+      659
+    ]
+  },
+  {
+    "tag": "Documentation",
+    "talks": [
+      619
+    ]
+  },
+  {
+    "tag": "Domain-driven design",
+    "talks": [
+      593
+    ]
+  },
+  {
+    "tag": "Dru",
+    "talks": [
+      571
+    ]
+  },
+  {
+    "tag": "Dsl",
+    "talks": [
+      586,
+      647
+    ]
+  },
+  {
+    "tag": "Elastic beanstalk",
+    "talks": [
+      581
+    ]
+  },
+  {
+    "tag": "End to end tests",
+    "talks": [
+      607
+    ]
+  },
+  {
+    "tag": "Excel",
+    "talks": [
+      572
+    ]
+  },
+  {
+    "tag": "Fluentd",
+    "talks": [
+      486
+    ]
+  },
+  {
+    "tag": "Frontend",
+    "talks": [
+      592
+    ]
+  },
+  {
+    "tag": "Functional programming",
+    "talks": [
+      587
+    ]
+  },
+  {
+    "tag": "Geb",
+    "talks": [
+      654
+    ]
+  },
+  {
+    "tag": "Gitlab",
+    "talks": [
+      578
+    ]
+  },
+  {
+    "tag": "Goodbye",
+    "talks": [
+      657
+    ]
+  },
+  {
+    "tag": "Google cloud",
+    "talks": [
+      602,
+      610
+    ]
+  },
+  {
+    "tag": "Gorm",
+    "talks": [
+      645
+    ]
+  },
+  {
+    "tag": "Gradle plugin development",
+    "talks": [
+      322
+    ]
+  },
+  {
+    "tag": "Grails profile",
+    "talks": [
+      592
+    ]
+  },
+  {
+    "tag": "Graphql",
+    "talks": [
+      613
+    ]
+  },
+  {
+    "tag": "Gru",
+    "talks": [
+      571
+    ]
+  },
+  {
+    "tag": "Hackergarten",
+    "talks": [
+      605
+    ]
+  },
+  {
+    "tag": "Http testing",
+    "talks": [
+      571
+    ]
+  },
+  {
+    "tag": "Infrastructor",
+    "talks": [
+      562
+    ]
+  },
+  {
+    "tag": "Infrastructure as code",
+    "talks": [
+      562
+    ]
+  },
+  {
+    "tag": "Integrated tests",
+    "talks": [
+      607
+    ]
+  },
+  {
+    "tag": "Integration",
+    "talks": [
+      580
+    ]
+  },
+  {
+    "tag": "Integration-tests",
+    "talks": [
+      579
+    ]
+  },
+  {
+    "tag": "Iot",
+    "talks": [
+      611
+    ]
+  },
+  {
+    "tag": "Java",
+    "talks": [
+      335,
+      580
+    ]
+  },
+  {
+    "tag": "Java 10",
+    "talks": [
+      622
+    ]
+  },
+  {
+    "tag": "Java 8",
+    "talks": [
+      622
+    ]
+  },
+  {
+    "tag": "Java 9",
+    "talks": [
+      622
+    ]
+  },
+  {
+    "tag": "Javascript",
+    "talks": [
+      545,
+      592,
+      544
+    ]
+  },
+  {
+    "tag": "Job interviews",
+    "talks": [
+      603
+    ]
+  },
+  {
+    "tag": "Keynote",
+    "talks": [
+      528
+    ]
+  },
+  {
+    "tag": "Kubernetes",
+    "talks": [
+      658
+    ]
+  },
+  {
+    "tag": "Machine learning",
+    "talks": [
+      610,
+      584
+    ]
+  },
+  {
+    "tag": "Meet & greet",
+    "talks": [
+      656
+    ]
+  },
+  {
+    "tag": "Metaprogramming",
+    "talks": [
+      586
+    ]
+  },
+  {
+    "tag": "Micro-service",
+    "talks": [
+      655
+    ]
+  },
+  {
+    "tag": "Microservices",
+    "talks": [
+      544,
+      643,
+      593
+    ]
+  },
+  {
+    "tag": "Monitoring",
+    "talks": [
+      581
+    ]
+  },
+  {
+    "tag": "Mqtt",
+    "talks": [
+      611
+    ]
+  },
+  {
+    "tag": "Multi-tenancy",
+    "talks": [
+      645
+    ]
+  },
+  {
+    "tag": "Nashorn",
+    "talks": [
+      544
+    ]
+  },
+  {
+    "tag": "New relic",
+    "talks": [
+      581
+    ]
+  },
+  {
+    "tag": "Nio2",
+    "talks": [
+      335
+    ]
+  },
+  {
+    "tag": "Nodejs",
+    "talks": [
+      545,
+      544
+    ]
+  },
+  {
+    "tag": "Non-technical",
+    "talks": [
+      625
+    ]
+  },
+  {
+    "tag": "Open source",
+    "talks": [
+      614
+    ]
+  },
+  {
+    "tag": "Particle",
+    "talks": [
+      584
+    ]
+  },
+  {
+    "tag": "Plugins",
+    "talks": [
+      322
+    ]
+  },
+  {
+    "tag": "Prometheus",
+    "talks": [
+      486
+    ]
+  },
+  {
+    "tag": "Raspberry pi",
+    "talks": [
+      584
+    ]
+  },
+  {
+    "tag": "Ratpack",
+    "talks": [
+      620,
+      602,
+      613
+    ]
+  },
+  {
+    "tag": "React",
+    "talks": [
+      545,
+      544
+    ]
+  },
+  {
+    "tag": "Real world experience",
+    "talks": [
+      614
+    ]
+  },
+  {
+    "tag": "Rest",
+    "talks": [
+      544
+    ]
+  },
+  {
+    "tag": "Rxgorm",
+    "talks": [
+      645
+    ]
+  },
+  {
+    "tag": "Security",
+    "talks": [
+      582
+    ]
+  },
+  {
+    "tag": "Sentry",
+    "talks": [
+      581
+    ]
+  },
+  {
+    "tag": "Serverless",
+    "talks": [
+      643
+    ]
+  },
+  {
+    "tag": "Spock",
+    "talks": [
+      631,
+      579,
+      606,
+      618
+    ]
+  },
+  {
+    "tag": "Spring boot",
+    "talks": [
+      577,
+      645,
+      611,
+      486
+    ]
+  },
+  {
+    "tag": "System administration",
+    "talks": [
+      565
+    ]
+  },
+  {
+    "tag": "Tba",
+    "talks": [
+      528
+    ]
+  },
+  {
+    "tag": "Team",
+    "talks": [
+      625
+    ]
+  },
+  {
+    "tag": "Tensorflow",
+    "talks": [
+      584
+    ]
+  },
+  {
+    "tag": "Testcontainers",
+    "talks": [
+      579
+    ]
+  },
+  {
+    "tag": "Testing",
+    "talks": [
+      631,
+      606,
+      607
+    ]
+  },
+  {
+    "tag": "Time series",
+    "talks": [
+      611
+    ]
+  },
+  {
+    "tag": "Tools",
+    "talks": [
+      614
+    ]
+  },
+  {
+    "tag": "Vpc",
+    "talks": [
+      34
+    ]
+  },
+  {
+    "tag": "Vue",
+    "talks": [
+      592
+    ]
+  },
+  {
+    "tag": "Webpack",
+    "talks": [
+      544
+    ]
+  },
+  {
+    "tag": "Welcome",
+    "talks": [
+      112
+    ]
+  },
+  {
+    "tag": "Workshop",
+    "talks": [
+      602,
+      579,
+      544,
+      322,
+      571
+    ]
+  },
+  {
+    "tag": "gradle",
+    "talks": [
+      545,
+      322
+    ]
+  },
+  {
+    "tag": "grails",
+    "talks": [
+      602,
+      577,
+      545,
+      645,
+      611,
+      486,
+      34,
+      581,
+      571,
+      655
+    ]
+  },
+  {
+    "tag": "groovy",
+    "talks": [
+      572,
+      619,
+      620,
+      602,
+      610,
+      577,
+      578,
+      579,
+      614,
+      622,
+      547,
+      587,
+      654,
+      613,
+      647,
+      335,
+      580,
+      581,
+      655
+    ]
+  }
+]
