@@ -17,7 +17,7 @@ class Speaker {
 
     static constraints = {
         name nullable: false
-        bio nullable: false
+        bio nullable: false, widget: 'textarea'
         twitter nullable: false
         company nullable: false
         talks minSize: 0

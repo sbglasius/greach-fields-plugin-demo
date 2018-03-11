@@ -16,7 +16,7 @@ class Talk {
 
     static constraints = {
         title nullable: false
-        summary nullable: false
+        summary nullable: false, widget: 'textarea'
         speaker()
         tags()
     }
