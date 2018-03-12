@@ -1,0 +1,1 @@
+<img style="height: 50px" src="${value}" alt="${bean.name} (${value})"/>
