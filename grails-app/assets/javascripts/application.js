@@ -7,6 +7,7 @@
 //
 //= require jquery-2.2.0.min
 //= require bootstrap
+//= require summernote/summernote.js
 //= require_tree .
 //= require_self
 
